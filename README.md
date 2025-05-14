@@ -11,5 +11,5 @@ docker run -d \
 --name kcptube \
 -v /root/test/kcptube.conf:/root/kcptube/kcptube.conf \
 -e TZ=Asia/Shanghai \
-kcptube
+zhouyut001/kcptube-docker
 ``
