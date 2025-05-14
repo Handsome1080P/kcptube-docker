@@ -1,2 +1,2 @@
 # Kcptube-Docker
-Auto make kcptun docker.Every weekend check kcptube update then build docker push to docker hub.
+Auto make kcptube docker.Every weekend check kcptube update then build docker push to docker hub.
