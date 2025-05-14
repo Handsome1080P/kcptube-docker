@@ -7,9 +7,14 @@ https://github.com/cnbatch/kcptube
 ## How to run
 ``
 docker run -d \
+
 --network host \
+
 --name kcptube \
+
 -v /root/test/kcptube.conf:/root/kcptube/kcptube.conf \
+
 -e TZ=Asia/Shanghai \
+
 zhouyut001/kcptube-docker
 ``
